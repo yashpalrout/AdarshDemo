@@ -1,0 +1,147 @@
+body{
+    background-color: rgb(39, 0, 75);
+    
+}
+header{
+    background-image: linear-gradient(to top left, rgb(0, 255, 64), rgb(255, 134, 134));
+    text-align: center;
+    display:block;
+    width: 100%;
+    position: relative;
+}
+header h1{
+    font-size: 45px;
+    text-decoration: underline;
+    margin: 0%;
+    padding: 0%;
+}
+header p{
+    font-size: 10px;
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.div2{
+    
+    margin: 10px auto auto auto;
+    width: 94%;
+    background-image: linear-gradient(to top right , rgb(254, 201, 42), rgb(255, 0, 144));
+    float: inline-start;
+}
+
+
+.div2 #i1
+{
+    margin: auto;
+    height : 100px;
+    border-radius: 50%;
+    display: block;
+    padding: 1%;
+}
+.div2 #i1:hover
+{
+    background-image: url(ADARSH\ \(2\).png);
+    
+}
+.div2 p
+{
+    font-size:2.5vw;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+#nav
+{
+    width: 94%;
+    text-align: center;
+    margin: 0 auto auto auto;
+    border: 3px solid rgb(255, 0, 144);
+}
+#nav td
+{
+    background-color: rgb(255, 134, 134);
+    border: 1px solid rgb(255, 134, 120);
+    
+}
+#nav td:hover
+{
+    background-color: rgb(254, 201, 42);
+}
+#nav td:active 
+{
+    background-color: rgb(254, 201, 42);
+}
+#nav td a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wr1
+{
+    width: 94%;
+    text-align: center;
+    margin: 50px auto auto auto;
+    color: aquamarine;
+    background-image: linear-gradient(to top left, rgb(0, 174, 255), rgb(0,7,88));
+}
+.wr1 td{
+    
+    font-family: 'Fauna One', serif;
+    border-right: 1px solid white;
+    font-size: 14px;
+    color: aquamarine;
+    padding: 5px;
+    font-weight: bold;
+}
+.wr1 th button
+{
+    width: 100px;
+    margin: auto;
+}
+.wr1 th button:hover
+{
+   background-color: chartreuse;
+}
+.div3{
+    margin: auto;
+    width: 94%;
+    background-image: linear-gradient(to top left, yellow, red);
+}
+.div3 #para
+{
+    font-size: 2vw;
+    font-family: 'Fauna One', serif;
+}
+
+#imagemain{
+   width: 94%;
+   height: 94%;
+   background-position: center;
+   margin: 3%;
+    
+}
+
+footer{
+    background-color: aqua;
+    bottom: 0px;
+    left: 0px;
+    position: relative;
+    width: 100%;
+}
+ul 
+{
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+}
+
+#me
+{
+    font-size: 1vw;
+    font-style: oblique;
+    color: white;
+    float: right;
+}
